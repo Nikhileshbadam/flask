@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: flask-app
-      image: nikhilesh000007/flask-app:61084c119822d05912422ba76e7c5ce2a43a1c3e
+      image: nikhilesh000007/flask-app:a20a2be6519939452f6baa1b853cdd53950c8654
       ports:
         - containerPort: 5000
 
